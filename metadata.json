@@ -1,0 +1,6 @@
+{
+  "name": "KaamWala",
+  "description": "A trust-focused marketplace connecting clients with verified service professionals, featuring escrow payments, interactive milestones, in-app chat, and AI-enabled matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
